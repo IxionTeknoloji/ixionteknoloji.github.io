@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="Test Streams",Apple BipBop (HLS sample)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Test Streams",Akamai Live Test
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Test Streams",Mux Test Stream
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/BigBuckBunny_124" group-title="Open Movies",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/ElephantsDream" group-title="Open Movies",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Sintel" group-title="Open Movies",Sintel (2010)
+https://archive.org/download/Sintel/sintel-2048-surround.mp4
+#EXTINF:-1 group-title="Short Clips",Big Buck Bunny Clip
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4
+#EXTINF:-1 group-title="Short Clips",Sintel Clip
+https://test-videos.co.uk/vids/sintel/mp4/h264/1080/Sintel_1080_10s_30MB.mp4
+#EXTINF:-1 group-title="Short Clips",Jellyfish Clip
+https://test-videos.co.uk/vids/jellyfish/mp4/h264/1080/Jellyfish_1080_10s_30MB.mp4
